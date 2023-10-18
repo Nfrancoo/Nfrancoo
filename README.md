@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![imagen_2023-10-18_200120542-transformed](https://github.com/Nfrancoo/Nfrancoo/assets/124009872/7e7706e0-dc21-404b-ac4d-f60e19abb49b)
+
+
 <!--
 **Nfrancoo/Nfrancoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
